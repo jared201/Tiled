@@ -1,24 +1,16 @@
-# Rectangle
+# Tiled
 
 [![Build](https://github.com/rxhanson/Rectangle/actions/workflows/build.yml/badge.svg)](https://github.com/rxhanson/Rectangle/actions/workflows/build.yml)
 
-Rectangle is a window management app based on Spectacle, written in Swift.
+Tiled is a window management app forked from Rectangle which is based on Spectacle, written in Swift.
 
 ![Screenshot](https://user-images.githubusercontent.com/13651296/183785536-a67a2e2a-7c55-4c19-9bf8-482e734b1632.png)
 
 ## System Requirements
 
-Rectangle supports macOS v10.11+.
+Tiled supports macOS v10.11+.
 
-## Installation
-
-You can download the latest dmg from <https://rectangleapp.com> or the [Releases page](https://github.com/rxhanson/Rectangle/releases).
-
-Or install with brew cask:
-
-```bash
-brew install --cask rectangle
-```
+As an Apple Developer Program subscriber, the purpose of this fork is to bring this app to the App store
 
 ## How to use it
 
@@ -65,7 +57,7 @@ See [TerminalCommands.md](TerminalCommands.md)
 
 ### Rectangle doesn't have the ability to move to other desktops/spaces
 
-Apple never released a public API for Spaces. Other apps that move windows between spaces use unsupported or undesirable ways to achieve this. If Apple decides to release a public API for it, I'll add it in.
+Tiled will fix this as Magnet can do this now.
 
 ### Window resizing is off slightly for iTerm2
 
@@ -127,7 +119,7 @@ defaults delete com.knollsoft.Rectangle
 
 ## Contributing
 
-Logic from Rectangle is used in the [Multitouch](https://multitouch.app) app. The [Rectangle Pro](https://rectangleapp.com/pro) app is entirely built on top of Rectangle. If you contribute significant code or localizations that get merged into Rectangle, you get a free license of Multitouch or Rectangle Pro. Contributors to Sparkle, MASShortcut, or Spectacle can also receive free Multitouch or Rectangle Pro licenses (just send me a direct message on [Gitter](https://gitter.im)).
+This is a fork, if you want to contribute or work on your own features then let me know.
 
 ### Localization
 
