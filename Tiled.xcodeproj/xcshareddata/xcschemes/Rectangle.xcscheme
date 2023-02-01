@@ -17,7 +17,7 @@
                BlueprintIdentifier = "9824700822AF9B7D0037B409"
                BuildableName = "Rectangle.app"
                BlueprintName = "Rectangle"
-               ReferencedContainer = "container:Rectangle.xcodeproj">
+               ReferencedContainer = "container:Tiled.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,7 +33,7 @@
             BlueprintIdentifier = "9824700822AF9B7D0037B409"
             BuildableName = "Rectangle.app"
             BlueprintName = "Rectangle"
-            ReferencedContainer = "container:Rectangle.xcodeproj">
+            ReferencedContainer = "container:Tiled.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -44,7 +44,7 @@
                BlueprintIdentifier = "9824701A22AF9B7E0037B409"
                BuildableName = "RectangleTests.xctest"
                BlueprintName = "RectangleTests"
-               ReferencedContainer = "container:Rectangle.xcodeproj">
+               ReferencedContainer = "container:Tiled.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -66,7 +66,7 @@
             BlueprintIdentifier = "9824700822AF9B7D0037B409"
             BuildableName = "Rectangle.app"
             BlueprintName = "Rectangle"
-            ReferencedContainer = "container:Rectangle.xcodeproj">
+            ReferencedContainer = "container:Tiled.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -83,7 +83,7 @@
             BlueprintIdentifier = "9824700822AF9B7D0037B409"
             BuildableName = "Rectangle.app"
             BlueprintName = "Rectangle"
-            ReferencedContainer = "container:Rectangle.xcodeproj">
+            ReferencedContainer = "container:Tiled.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
